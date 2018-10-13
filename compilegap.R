@@ -31,7 +31,7 @@ for (i in 1:length(gapfiles)){
     gapdata<-testlong
   }
   else {
-    gapdata<-full_join(gapdata,testlong)
+    gapdata<-full_join(gapdata,testlong, by = c("country" = "country","year" = "year"))
   } 
 }
 
