@@ -1,0 +1,32 @@
+---
+title: "List of Data Resources"
+author: "Ella Temprosa"
+date: "October 22, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Possible sources of publicly available data are listed below for ideas on your final project.
+
+* [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/)
+The Behavioral Risk Factor Surveillance System (BRFSS) is the nation's premier system of health-related telephone surveys that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. 
+
+* [Gapminder](https://www.gapminder.org/data/)
+Gapminder is an independent Swedish foundation which collaborates with universities, UN, public agencies and non-governmental organizations to compile country level metrics.
+
+* [Google Data Search](https://toolbox.google.com/datasetsearch)
+Google Dataset Search is a search engine from Google that helps researchers locate online data that is freely available for use. The company launched the service on September 5, 2018, and stated that the product was targeted at scientists and data journalists.
+
+* [IHME Global Health Data exchange](http://ghdx.healthdata.org/)
+The Institute for Health Metrics and Evaluation (IHME) is an independent global health research center at the University of Washington. The Global Health Data Exchange (GHDx) is a data catalog created and supported by IHME.
+The GHDx directly supports IHME’s mission to improve the health of the world’s populations by providing the best information on population health. It was created as a dedicated place for anyone interested in global health and demography to quickly find and share information about data along with actual datasets.
+
+* [UN Humanitarian Data Exchange](https://data.humdata.org/)
+The Humanitarian Data Exchange (HDX) is an open platform for sharing data across crises and organisations. Launched in July 2014, the goal of HDX is to make humanitarian data easy to find and use for analysis. HDX is managed by OCHA's Centre for Humanitarian Data, which is located in The Hague.
+
+* [US NHANES](https://wwwn.cdc.gov/nchs/nhanes/default.aspx)
+The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States. The survey is unique in that it combines interviews and physical examinations.
