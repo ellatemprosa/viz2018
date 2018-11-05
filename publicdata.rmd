@@ -30,3 +30,7 @@ The Humanitarian Data Exchange (HDX) is an open platform for sharing data across
 
 * [US NHANES](https://wwwn.cdc.gov/nchs/nhanes/default.aspx)
 The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States. The survey is unique in that it combines interviews and physical examinations.
+
+* [Statcompiler](https://www.statcompiler.com)
+The DHS Program STATcompiler allows users to make custom tables based on thousands of demographic and health indicators
+across more than 90 countries. 
